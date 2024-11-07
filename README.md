@@ -4,6 +4,8 @@
 
 -   [Sports analytics gallery](https://github.com/jscrimpshire/soccer_analytics): A collection of visualizations and code (mostly soccer) that I've created.
 
+## More
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jscrimpshire&theme=github)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jscrimpshire&theme=github)
